@@ -15,7 +15,7 @@
 
 - 📫 Reach out to me at **walishettar123@gmail.com**
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b2b42cda-03c9-418b-b4d9-490b7e1787ff">
+<img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/b2b42cda-03c9-418b-b4d9-490b7e1787ff">
 
 <h3 align="left">GitHub Stats:</h3>
 
