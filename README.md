@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VINAYAKANWALISHETTAR&label=Profile%20views&color=0e75b6&style=flat" alt="VINAYAKANWALISHETTAR" /> </p>
 
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/d43e30dc-092c-4a71-91a7-22e228c95dfe">
+
 - 🌱 I’m currently learning **Python and JS**
 
 - 👨‍💻 I’m currently working on some project it will soon available in github.
@@ -12,6 +14,8 @@
 - 💬 Ask me about **Programming, Cyber Security.**
 
 - 📫 Reach out to me at **walishettar123@gmail.com**
+
+<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/b2b42cda-03c9-418b-b4d9-490b7e1787ff">
 
 <h3 align="left">GitHub Stats:</h3>
 
