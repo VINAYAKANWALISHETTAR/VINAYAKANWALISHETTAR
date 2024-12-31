@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=VINAYAKANWALISHETTAR&label=Profile%20views&color=0e75b6&style=flat" alt="VINAYAKANWALISHETTAR" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://github.com/user-attachments/assets/d43e30dc-092c-4a71-91a7-22e228c95dfe">
+<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/d43e30dc-092c-4a71-91a7-22e228c95dfe">
 
 - 🌱 I’m currently learning **Python and JS**
 
@@ -18,7 +18,7 @@
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinayaka_n_walishettar_100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayaka-n-walishettar) 
 
-<img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/c3c5d943-23d6-41ae-993d-680d7dce6f3f">
+<img align="right" alt="coding" width="250" src="https://github.com/user-attachments/assets/c3c5d943-23d6-41ae-993d-680d7dce6f3f">
 
 <h3 align="left">GitHub Stats:</h3>
 
