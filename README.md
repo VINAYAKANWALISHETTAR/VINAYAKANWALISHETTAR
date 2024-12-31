@@ -15,7 +15,10 @@
 
 - 📫 Reach out to me at **walishettar123@gmail.com**
 
-<img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/b2b42cda-03c9-418b-b4d9-490b7e1787ff">
+## 🌐 Connect with me:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinayaka_n_walishettar_100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayaka-n-walishettar) 
+
+<img align="right" alt="coding" width="350" src="https://github.com/user-attachments/assets/c3c5d943-23d6-41ae-993d-680d7dce6f3f">
 
 <h3 align="left">GitHub Stats:</h3>
 
