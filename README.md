@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Programming, Cyber Security.**
 
-- 📫 Reach out to me at **walishettar123@gmail.com**
+- 📫 Reach out to me at **vinayakanw@gmail.com**
 
 ## 🌐 Connect with me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinayaka_n_walishettar_100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayaka-n-walishettar) 
