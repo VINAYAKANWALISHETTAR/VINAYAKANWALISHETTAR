@@ -1,36 +1,121 @@
-<h1 align="center">Hi 👋, I'm Vinayaka N Walishettar</h1>
-<h3 align="center"> Preparing to become a passionate developer from India </h3>
+<h1 align="center">👋 Hi, I'm Vinayaka N Walishettar</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=VINAYAKANWALISHETTAR&label=Profile%20views&color=0e75b6&style=flat" alt="VINAYAKANWALISHETTAR" /> </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Systems+Developer;Data+Analysis+%26+Machine+Learning" />
+</p>
 
-<img align="right" alt="coding" width="300" src="https://github.com/user-attachments/assets/d43e30dc-092c-4a71-91a7-22e228c95dfe">
+---
 
-- 🌱 I’m currently learning **Python and JS**
+## 👨‍💻 About Me
 
-- 👨‍💻 I’m currently working on some project it will soon available in github.
+- 🎓 Computer Science undergraduate in **Computer Science & Business Systems (CSBS)**  
+- 🚀 Passionate about building **secure, scalable, and high-performance applications**  
+- 🔐 Hands-on experience with **real-time cybersecurity systems and AI-assisted platforms**  
+- 📊 Strong foundation in **data analysis, machine learning, and backend development**  
+- 🎯 Actively seeking **Entry-Level Software Engineer / Full Stack Developer / Data Analyst roles**
 
-- 💻 All of my projects are available soon on [GitHub](https://github.com/VINAYAKANWALISHETTAR)
+---
 
-- 💬 Ask me about **Programming, Cyber Security.**
+## 🛠️ Tech Stack
 
-- 📫 Reach out to me at **vinayakanw@gmail.com**
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,sql" />
+</p>
 
-## 🌐 Connect with me:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vinayaka_n_walishettar_100) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vinayaka-n-walishettar) 
+### 🎨 Frontend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind" />
+</p>
 
-<img align="right" alt="coding" width="285" src="https://github.com/user-attachments/assets/c3c5d943-23d6-41ae-993d-680d7dce6f3f">
+### ⚙️ Backend
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
 
-<h3 align="left">GitHub Stats:</h3>
+### 🗄️ Databases
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=VINAYAKANWALISHETTAR&show_icons=true&locale=en" alt="" /></p>
+### 📊 Data & Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=VINAYAKANWALISHETTAR&" alt="VINAYAKANWALISHETTAR" /></p>
+### 🧰 Tools & Platforms
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,pycharm,flutter,androidstudio" />
+</p>
 
-<h3 align="left">Languages and Tools:</h3>
+---
+
+## 🚀 Featured Projects
+
+### 🔐 Guardian Shield – Real-Time Scam & Malware Detection System
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,security" />
+</p>
+
+- Secure web application for detecting phishing links, scam URLs, and malicious content  
+- Developed scalable backend APIs using Node.js and Express.js  
+- Integrated multiple threat verification services  
+- Focused on security, performance optimization, and system reliability  
+
+---
+
+### 🎬 CineSense – AI-Powered Movie Recommendation System
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,postgres" />
+</p>
+
+- AI-assisted platform recommending movies based on user mood and preferences  
+- Backend built with Node.js, Express.js, and PostgreSQL  
+- Secure authentication and responsive UI implementation  
+
+---
+
+### 💰 Smart Expense Tracker
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,mongodb,firebase" />
+</p>
+
+- Cloud-based expense management system with secure authentication  
+- Real-time data storage and CRUD operations  
+- Interactive data visualization for expense insights  
+
+---
+
+### 📊 Student Performance Analysis & Prediction
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+- Exploratory data analysis using Python, Pandas, and NumPy  
+- Machine learning models for performance prediction  
+- Dashboards and reports using Power BI and Excel  
 
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white)  ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=flat&logo=anaconda&logoColor=white)  ![IOS](https://img.shields.io/badge/IOS-%2320232a.svg?style=flat&logo=apple&logoColor=white) ![ANDROID](https://img.shields.io/badge/android-%2320232a.svg?style=flat&logo=android&logoColor=%a4c639)  ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) 
+## 🤝 Let’s Connect
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/VINAYAKANWALISHETTAR"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="VINAYAKANWALISHETTAR" /></a></p><br><br>
-+
+<p align="center">
+  <a href="mailto:vinaykanw@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://linkedin.com/in/vinayakanw">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/VINAYAKANWALISHETTAR">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+</p>
