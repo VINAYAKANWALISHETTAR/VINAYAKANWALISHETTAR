@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm Vinayaka N Walishettar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Systems+Developer;Data+Analysis+%26+Machine+Learning" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&size=18&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Cybersecurity+Systems+Developer;Data+Analysis+%26+Machine+Learning;Entrepreneur" />
 </p>
 
 ---
