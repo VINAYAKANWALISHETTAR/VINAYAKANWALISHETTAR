@@ -1,446 +1,152 @@
 <div align="center">
+<h1>ನಮಸ್ಕಾರ, <br> I'm Vinayaka N. Walishettar</h1>
+    
+<p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1600&color=00E5FF&center=true&vCenter=true&width=760&lines=Building+secure%2C+useful+software;Full-stack+development+%7C+Cloud+%7C+App+development;Learning+through+building+and+authorized+security+testing" alt="Terminal-style typing introduction"/></p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F2027,50:203A43,100:2C5364&height=170&section=header&text=VINAYAKA%20N%20WALISHETTAR&fontSize=40&fontColor=00E5FF&fontAlignY=42&desc=Backend%20Engineer%20•%20AI%20Developer%20•%20Cloud%20Enthusiast&descAlignY=68&descSize=18&descColor=A0F0FF"/>
+<p><code>SOFTWARE ENGINEER</code> · <code>FULL-STACK DEVELOPER</code> · <code>APP DEVELOPER</code> · <code>OFFENSIVE SECURITY</code></p>
 
-<br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&pause=1800&color=00E5FF&center=true&vCenter=true&width=850&lines=Building+Secure+and+Scalable+Backend+Systems;AI-powered+Applications+for+Real+World+Problems;National+Hackathon+Winner;OCI+Generative+AI+Certified;Always+Learning+Something+New"/>
-
-<br><br>
-
-<a href="mailto:vinayakanw@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-0F2027?style=for-the-badge&logo=gmail&logoColor=00E5FF">
-</a>
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=00E5FF">
-</a>
-
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/GitHub-0F2027?style=for-the-badge&logo=github&logoColor=00E5FF">
-</a>
-
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-0F2027?style=for-the-badge&logo=vercel&logoColor=00E5FF">
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=VinayakaNW&label=Profile%20Views&style=for-the-badge&color=00E5FF"/>
+<p>
+  <a href="https://github.com/VINAYAKANWALISHETTAR"><img src="https://img.shields.io/badge/GitHub-Explore-101820?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/></a>
+  <a href="https://www.nayaka100.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-101820?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portfolio"/></a>
+  <a href="https://kavalu-labs.nayaka100.in/"><img src="https://img.shields.io/badge/Kavalu_Labs-Explore-101820?style=for-the-badge&logo=hackthebox&logoColor=00E5FF" alt="Kavalu Labs"/></a>
+</p>
 
 </div>
 
 ---
 
-# 👋 About Me
-
-```python
-class Vinayaka:
-    def __init__(self):
-        self.location   = "Hubli, Karnataka, India"
-        self.education  = "B.Tech Computer Science, VTU Belagavi (2023–2027) | CGPA 8.6/10"
-        self.focus      = ["Backend Development", "Cloud Computing", "AI Integration"]
-        self.philosophy = "Turn ideas into secure, scalable, real-world software"
-
-    def currently_exploring(self):
-        return ["AI Agents", "RAG", "Microservices", "Cloud Computing"]
-
-    def when_not_coding(self):
-        return ["Hackathons", "LeetCode", "Cricket", "Movies", "Quizzing"]
-```
-
----
-
-
-
-#  Tech Arsenal
-
-*"Building production-ready applications with modern technologies."*
-
-</div>
-
-<br>
-
-<table width="100%">
-
-<tr>
-
-<td width="22%" align="center">
-
-### 💻 Languages
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=python,javascript,postgres&theme=dark"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### ⚙️ Backend
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-###  Frontend
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-###  Databases
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase&theme=dark"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-###  Cloud & DevOps
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,vercel&theme=dark"/>
-
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-
-### 🔧 Tools
-
-</td>
-
-<td>
-
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode&theme=dark"/>
-
-</td>
-
-</tr>
-
-</table>
-
----
-
-# 📈 Technical Proficiency
-
-</div>
-
-```text
-Backend Engineering      ██████████░░ 90%
-
-Database Design          █████████░░░ 88%
-
-REST APIs                █████████░░░ 90%
-
-Cloud Computing          ████████░░░░ 75%
-
-Artificial Intelligence  ███████░░░░░ 70%
-
-Microservices            ██████░░░░░░ 60%
-
-System Design            ██████░░░░░░ 60%
-
-RAG                      █████░░░░░░░ 50%
-
-AI Agents                █████░░░░░░░ 45%
-```
-
----
-
-# 💪 Development Principles
-
-</div>
-
-| 🎯 Principle | Description |
-|-------------|-------------|
-| 🔒 Security First | JWT, RBAC, validation, encryption |
-| 📈 Scalability | Build APIs that grow with users |
-| 🧹 Clean Code | Maintainable and modular architecture |
-| ⚡ Performance | Fast queries and optimized APIs |
-| 🤝 Collaboration | Git, GitHub, Agile workflow |
-| 🚀 Continuous Learning | Always exploring modern technologies |
-
----
-
-# 🚀 Featured Projects
-
-*"A collection of projects focused on solving real-world problems through Backend Engineering, Artificial Intelligence, and Cloud Computing."*
-
-</div>
-
-<br>
+## `root@vinayaka:~$ whoami`
 
 <table>
-
 <tr>
+<td width="28%" align="center" valign="middle">
 
-<td width="33%" valign="top">
-
-## 🛡️ Raksha-Vyuh
-
-### AI Powered Cyber Security Platform
-
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
-
-### ✨ Features
-
-- 🔍 AI-powered Phishing Detection
-- 🤖 Gemini Threat Analysis
-- 🦠 VirusTotal Integration
-- 🔐 JWT Authentication
-- 👨‍👩‍👧 Guardian Alerts
-- 🐳 Dockerized Deployment
-- ☁ AWS EC2 Hosting
-
-### 🛠 Tech Stack
-
-`React`
-
-`Node.js`
-
-`Express`
-
-`MongoDB`
-
-`Docker`
-
-`AWS`
-
-### 🔗 Links
-
-[🚀 Live Demo](#)
-
-[💻 Source Code](#)
+<img src="id-card.svg" width="220" alt="Vinayaka N. Walishettar ID card"/>
 
 </td>
+<td valign="middle">
 
-<td width="33%" valign="top">
+```text
+┌─[ PROFILE ]
+│ Name       : Vinayaka N. Walishettar
+│ Location   : Hubli, Karnataka, India
+│ Education  : B.Tech Computer Science
+│ University : VTU Belagavi (2023–2027)
+│ CGPA       : 8.6 / 10
+│ Internship : Intern — Nantech Solutions
+└─[ STATUS ] : Building • Learning • Securing
+```
 
-## 🌾 IntelliCrop
-
-### AI Smart Agriculture Platform
-
-<img src="https://img.shields.io/badge/Status-Live-success?style=flat-square"/>
-
-### ✨ Features
-
-- 🎙 Voice Assistant
-- 🌦 Weather Prediction
-- 🌱 Crop Recommendation
-- 🐛 Disease Detection
-- 🤖 AI Chatbot
-- 🌐 Multilingual Support
-
-### 🛠 Tech Stack
-
-`React`
-
-`Node.js`
-
-`MongoDB`
-
-`Gemini API`
-
-`OpenWeather`
-
-### 🔗 Links
-
-[🚀 Live Demo](#)
-
-[💻 Source Code](#)
+I build full-stack software and applications, explore cloud infrastructure, and learn practical application security. I enjoy taking projects from an idea through implementation, testing, and deployment.
 
 </td>
-
-<td width="33%" valign="top">
-
-## 🎓 Smart Student Assistant
-
-### Complete College Management System
-
-<img src="https://img.shields.io/badge/Status-In%20Progress-blue?style=flat-square"/>
-
-### ✨ Features
-
-- 🎓 Student Management
-- 📅 Attendance
-- 🚪 Gate Pass
-- 🍱 Mess Management
-- 🔐 RBAC
-- ⚡ Rate Limiting
-
-### 🛠 Tech Stack
-
-`React`
-
-`Node.js`
-
-`PostgreSQL`
-
-`JWT`
-
-`Docker`
-
-### 🔗 Links
-
-[🚀 Live Demo](#)
-
-[💻 Source Code](#)
-
-</td>
-
 </tr>
+</table>
 
+### `root@vinayaka:~$ cat focus.txt`
+
+- **Software engineering:** Backend services, APIs, and maintainable application design.
+- **Full-stack & apps:** Web interfaces and cross-platform app development.
+- **Cloud & DevOps:** AWS fundamentals, containers, Linux, and deployment workflows.
+- **Security:** Web application security, reconnaissance, vulnerability assessment, and authorized testing.
+- **Currently exploring:** AI agents, retrieval-augmented generation (RAG), microservices, and cloud computing.
+
+---
+
+## `root@vinayaka:~$ ./arsenal.sh`
+
+<table>
+<tr><td width="25%"><strong>Languages</strong></td><td><img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" alt="Python, JavaScript, HTML, CSS"/></td></tr>
+<tr><td><strong>Backend & APIs</strong></td><td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express"/></td></tr>
+<tr><td><strong>Frontend & Apps</strong></td><td><img src="https://skillicons.dev/icons?i=react,tailwind,flutter&theme=dark" alt="React, Tailwind CSS, Flutter"/></td></tr>
+<tr><td><strong>Data</strong></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase&theme=dark" alt="PostgreSQL, MongoDB, Firebase, Supabase"/></td></tr>
+<tr><td><strong>Cloud & Tools</strong></td><td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github&theme=dark" alt="AWS, Docker, Kubernetes, Linux, Git, GitHub"/></td></tr>
+</table>
+
+**Security toolkit**
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/> <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP"/> <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white" alt="Nmap"/>
+
+<sub>Tools and technologies listed here reflect my current toolkit and learning areas; experience may vary by tool.</sub>
+
+---
+
+## `root@vinayaka:~$ ./kavalu --about`
+
+**[Kavalu Labs](https://kavalu-labs.nayaka100.in/)** is my build lab for developing security tools and their supporting platform.
+
+- **Security checks:** TLS configuration, HTTP security headers, cookie attributes, redirects, and information exposure.
+- **Findings:** Organizing evidence, potential impact, and remediation guidance, with OWASP Top 10 concepts as a reference.
+- **Platform work:** Building across the scanning engine, application workflow, and security reporting experience.
+
+> Authorization first: testing is limited to systems and targets for which permission has been granted.
+
+---
+
+## `root@vinayaka:~/projects$ ls`
+
+<table>
+<tr>
+<td width="100%">
+
+### ರಕ್ಷಾ ವ್ಯೂಹ · Raksha-Vyuh
+**AI-assisted cybersecurity platform**
+
+A project focused on identifying phishing attempts and online threats, analyzing suspicious activity, and helping route alerts to relevant people, including guardians.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### ಮಾತಕ್ಷರ · Mattakshara
+**Voice-first conversational intelligence**
+
+A work-in-progress assistant concept for speaking or uploading audio, asking questions in a preferred language, and receiving useful responses or reports.
+
+</td>
+</tr>
+<tr>
+<td>
+
+### ಜಾಣತನ · Jaanatana
+**Intelligent digital solutions**
+
+A work-in-progress project exploring practical problem-solving through a thoughtful, useful digital experience.
+
+</td>
+</tr>
 </table>
 
 ---
 
-<div align="center">
+## `root@vinayaka:~$ cat achievements.log`
 
-# 🧪 More Projects
-
-</div>
-
-| 🚀 Project | Description |
-|------------|-------------|
-| 🎬 **CineSense** | AI Movie Recommendation System based on mood and genre |
-| 🌍 **OmniCast** | Publish content across multiple social media platforms |
-| 💊 **MediVerify** | QR-based medicine verification using AI |
-| 🌾 **GramAI Hub** | AI multilingual farming assistant |
-| 💬 **ConvoIntel** | AI conversational intelligence platform |
-| 📚 **Keep It** | Universal platform to save, organize, and rediscover anything from across the internet |
+| Event | Result |
+|---|---|
+| Smart India Hackathon | Winner — National |
+| LEAP Hackathon | 2nd Runner-up |
+| Hack2Future | Top 10 among 60+ teams |
+| MAKE FOR BELAGAVI | Certificate of Achievement |
 
 ---
 
-<div align="center">
-
-# 🏆 Achievements
-
-</div>
-
-| 🏅 Achievement | Description |
-|---------------|-------------|
-| 🥇 Smart India Hackathon Winner | National Level Winner |
-| 🏆 Hack2Future Top 10 | Among 60+ teams |
-| 🎓 HCL GUVI Scholar | Merit Scholarship |
-| 🔐 NPTEL Cyber Security | Elite (91%) |
-| 💼 JPMorgan Software Engineering | Forage Simulation |
-| 🏅 MAKE FOR BELAGAVI | Certificate of Achievement |
-
----
+## `root@vinayaka:~$ ./connect --secure`
 
 <div align="center">
 
-# 📜 Certifications
+<a href="mailto:vinayakanw@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-101820?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/vinayaka-n-walishettar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-101820?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/></a>
+<a href="https://github.com/VINAYAKANWALISHETTAR"><img src="https://img.shields.io/badge/GitHub-Follow-101820?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/></a>
+<a href="https://www.nayaka100.in/"><img src="https://img.shields.io/badge/Portfolio-Explore-101820?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portfolio"/></a>
+<a href="https://www.instagram.com/yenri_mediaa_100/"><img src="https://img.shields.io/badge/Instagram-Follow-101820?style=for-the-badge&logo=instagram&logoColor=00E5FF" alt="Instagram"/></a>
+<a href="https://www.reddit.com/user/vinayakanw/"><img src="https://img.shields.io/badge/Reddit-Connect-101820?style=for-the-badge&logo=reddit&logoColor=00E5FF" alt="Reddit"/></a>
 
-</div>
+<br/><br/>
 
-| Certification | Organization |
-|--------------|--------------|
-| Oracle Cloud Infrastructure Generative AI Professional | Oracle |
-| Internet Crimes & Cyber Security (Elite) | IIT Madras • NPTEL |
-| Software Engineering Job Simulation | JPMorgan Chase & Co. |
-| HCL GUVI STaR Program | GUVI |
-| Google Cloud Skills Boost *(Optional if completed)* | Google |
-
----
-<div align="center">
-  
-# 🤝 Let's Connect
-
-### I'm always happy to connect with developers, recruiters, founders, and fellow learners.
-
-<br>
-
-<a href="mailto:vinayakanw@gmail.com">
-<img src="https://img.shields.io/badge/Email-00E5FF?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="YOUR_GITHUB_URL">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="YOUR_PORTFOLIO_URL">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=2500&color=00E5FF&center=true&width=750&lines=Open+to+Backend+Engineering+Internships.;Building+AI-powered+Products.;Always+Learning.+Always+Building.;Let's+create+something+impactful+together!"/>
-
-</div>
-</div>
-
-
-<div align="center">
-
-# ❤️ Thanks for Visiting
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-<br>
-
-⭐ **If you like my work, consider following my journey or connecting with me on LinkedIn.**
-
-<br>
-
-*"Turning ideas into practical, secure, and scalable software — one commit at a time."*
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&color=0:0F2027,50:203A43,100:2C5364&section=footer"/>
+```text
+┌──(vinayaka㉿kali)-[~]
+└─$ echo "Build it. Break it. Secure it."
+```
 
 </div>
