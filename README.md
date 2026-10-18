@@ -1,6 +1,8 @@
 <div align="center">
 <h1>ನಮಸ್ಕಾರ, <br> I'm Vinayaka N. Walishettar</h1>
     
+<img src="channels4_banner.jpg" width="800" alt="Vinayaka N. Walishettar ID card"/>  
+
 <p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1600&color=00E5FF&center=true&vCenter=true&width=760&lines=Building+secure%2C+useful+software;Full-stack+development+%7C+Cloud+%7C+App+development;Learning+through+building+and+authorized+security+testing" alt="Terminal-style typing introduction"/></p>
 
 <p><code>SOFTWARE ENGINEER</code> · <code>FULL-STACK DEVELOPER</code> · <code>APP DEVELOPER</code> · <code>OFFENSIVE SECURITY</code></p>
