@@ -1,9 +1,5 @@
 <div align="center">
 <h1>ನಮಸ್ಕಾರ, <br> I'm Vinayaka N. Walishettar</h1>
-    
-<img src="channels4_banner.jpg" width="800" alt="Vinayaka N. Walishettar ID card"/>  
-
-<p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1600&color=00E5FF&center=true&vCenter=true&width=760&lines=Building+secure%2C+useful+software;Full-stack+development+%7C+Cloud+%7C+App+development;Learning+through+building+and+authorized+security+testing" alt="Terminal-style typing introduction"/></p>
 
 <p><code>SOFTWARE ENGINEER</code> · <code>FULL-STACK DEVELOPER</code> · <code>APP DEVELOPER</code> · <code>OFFENSIVE SECURITY</code></p>
 
@@ -12,12 +8,16 @@
   <a href="https://www.nayaka100.in/"><img src="https://img.shields.io/badge/Portfolio-Visit-101820?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portfolio"/></a>
   <a href="https://kavalu-labs.nayaka100.in/"><img src="https://img.shields.io/badge/Kavalu_Labs-Explore-101820?style=for-the-badge&logo=hackthebox&logoColor=00E5FF" alt="Kavalu Labs"/></a>
 </p>
+    
+<img src="channels4_banner.jpg" width="800" alt="Vinayaka N. Walishettar ID card"/>  
+
+<p><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1600&color=00E5FF&center=true&vCenter=true&width=760&lines=Building+secure%2C+useful+software;Full-stack+development+%7C+Cloud+%7C+App+development;Learning+through+building+and+authorized+security+testing" alt="Terminal-style typing introduction"/></p>
 
 </div>
 
 ---
 
-## `root@vinayaka:~$ whoami`
+## `root@vnw:~$ whoami`
 
 <table>
 <tr>
@@ -26,7 +26,7 @@
 <img src="id-card.svg" width="220" alt="Vinayaka N. Walishettar ID card"/>
 
 </td>
-<td valign="middle">
+<td valign="right">
 
 ```text
 ┌─[ PROFILE ]
@@ -39,41 +39,72 @@
 └─[ STATUS ] : Building • Learning • Securing
 ```
 
-I build full-stack software and applications, explore cloud infrastructure, and learn practical application security. I enjoy taking projects from an idea through implementation, testing, and deployment.
+I engineer full-stack applications from concept to deployment, blending robust architecture, cloud infrastructure, security-by-design, and user-first experiences. I explore application and offensive security to build resilient, reliable, and secure software.
 
 </td>
 </tr>
 </table>
 
-### `root@vinayaka:~$ cat focus.txt`
+### `root@dev:~$ cat focus.txt`
 
-- **Software engineering:** Backend services, APIs, and maintainable application design.
-- **Full-stack & apps:** Web interfaces and cross-platform app development.
-- **Cloud & DevOps:** AWS fundamentals, containers, Linux, and deployment workflows.
-- **Security:** Web application security, reconnaissance, vulnerability assessment, and authorized testing.
-- **Currently exploring:** AI agents, retrieval-augmented generation (RAG), microservices, and cloud computing.
+- **Software Engineering:** Backend systems, API design, clean architecture, and maintainable code.
+- **Full-Stack Development:** End-to-end web applications, responsive interfaces, and cross-platform solutions.
+- **Cloud & DevOps:** AWS fundamentals, Linux, containerization, CI/CD, and deployment automation.
+- **Application Security:** Secure-by-design development, attack-surface analysis, reconnaissance, and vulnerability assessment.
+- **Offensive Security:** Ethical hacking, web application penetration testing, exploit analysis, and authorized security labs.
+
 
 ---
 
-## `root@vinayaka:~$ ./arsenal.sh`
+## `root@vnw:~$ ./arsenal.sh`
 
 <table>
-<tr><td width="25%"><strong>Languages</strong></td><td><img src="https://skillicons.dev/icons?i=python,javascript,html,css&theme=dark" alt="Python, JavaScript, HTML, CSS"/></td></tr>
-<tr><td><strong>Backend & APIs</strong></td><td><img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Node.js and Express"/></td></tr>
-<tr><td><strong>Frontend & Apps</strong></td><td><img src="https://skillicons.dev/icons?i=react,tailwind,flutter&theme=dark" alt="React, Tailwind CSS, Flutter"/></td></tr>
-<tr><td><strong>Data</strong></td><td><img src="https://skillicons.dev/icons?i=postgres,mongodb,firebase,supabase&theme=dark" alt="PostgreSQL, MongoDB, Firebase, Supabase"/></td></tr>
-<tr><td><strong>Cloud & Tools</strong></td><td><img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github&theme=dark" alt="AWS, Docker, Kubernetes, Linux, Git, GitHub"/></td></tr>
+<tr>
+<td width="50%" valign="top">
+
+**`> programming_languages`**
+
+<img src="https://skillicons.dev/icons?i=python,javascript&theme=dark" alt="Python, JavaScript"/>
+
+**`> frontend_development`**
+
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css&theme=dark" alt="React, Tailwind CSS, HTML, CSS"/>
+
+**`> mobile_app_development`**
+
+<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark" alt="Flutter, Dart"/>
+
+**`> backend_and_api_engineering`**
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&theme=dark" alt="Node.js, Express, FastAPI, Flask"/>
+
+</td>
+<td width="50%" valign="top">
+
+**`> databases_and_backend_services`**
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,supabase&theme=dark" alt="MySQL, MongoDB, Supabase"/>
+
+**`> cloud_and_devops`**
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github&theme=dark" alt="AWS, Docker, Kubernetes, Linux, Git, GitHub"/>
+
+**`> offensive_security_toolkit`**
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/> <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP"/> <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white" alt="Nmap"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark"/> <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logoColor=white" alt="Metasploit"/>
+
+**`> security_learning_areas`**
+
+`Web App Security` · `Recon` · `Vulnerability Assessment` · `Penetration Testing` · `Network Security` · `OWASP Top 10`
+
+</td>
+</tr>
 </table>
 
-**Security toolkit**
+<sub>Technologies and security tools represent my toolkit and learning interests; proficiency varies by tool. Security testing is performed only in authorized environments.</sub>
 
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" alt="Kali Linux"/> <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite"/> <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" alt="OWASP ZAP"/> <img src="https://img.shields.io/badge/Nmap-214478?style=flat-square&logoColor=white" alt="Nmap"/>
 
-<sub>Tools and technologies listed here reflect my current toolkit and learning areas; experience may vary by tool.</sub>
-
----
-
-## `root@vinayaka:~$ ./kavalu --about`
+## `root@vnw:~$ ./kavalu --about`
 
 **[Kavalu Labs](https://kavalu-labs.nayaka100.in/)** is my build lab for developing security tools and their supporting platform.
 
@@ -85,7 +116,7 @@ I build full-stack software and applications, explore cloud infrastructure, and 
 
 ---
 
-## `root@vinayaka:~/projects$ ls`
+## `root@vnw:~/projects$ ls`
 
 <table>
 <tr>
@@ -122,7 +153,7 @@ A work-in-progress project exploring practical problem-solving through a thought
 
 ---
 
-## `root@vinayaka:~$ cat achievements.log`
+## `root@vnw:~$ cat achievements.log`
 
 | Event | Result |
 |---|---|
@@ -133,18 +164,17 @@ A work-in-progress project exploring practical problem-solving through a thought
 
 ---
 
-## `root@vinayaka:~$ ./connect --secure`
+## `root@vnw:~$ ./connect --secure`
 
 <div align="center">
 
-<a href="mailto:vinayakanw@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-101820?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/></a>
+<!-- <a href="mailto:vinayakanw@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-101820?style=for-the-badge&logo=gmail&logoColor=00E5FF" alt="Email"/></a> -->
 <a href="https://www.linkedin.com/in/vinayaka-n-walishettar/"><img src="https://img.shields.io/badge/LinkedIn-Connect-101820?style=for-the-badge&logo=linkedin&logoColor=00E5FF" alt="LinkedIn"/></a>
 <a href="https://github.com/VINAYAKANWALISHETTAR"><img src="https://img.shields.io/badge/GitHub-Follow-101820?style=for-the-badge&logo=github&logoColor=00E5FF" alt="GitHub"/></a>
 <a href="https://www.nayaka100.in/"><img src="https://img.shields.io/badge/Portfolio-Explore-101820?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portfolio"/></a>
 <a href="https://www.instagram.com/yenri_mediaa_100/"><img src="https://img.shields.io/badge/Instagram-Follow-101820?style=for-the-badge&logo=instagram&logoColor=00E5FF" alt="Instagram"/></a>
 <a href="https://www.reddit.com/user/vinayakanw/"><img src="https://img.shields.io/badge/Reddit-Connect-101820?style=for-the-badge&logo=reddit&logoColor=00E5FF" alt="Reddit"/></a>
 
-<br/><br/>
 
 ```text
 ┌──(vinayaka㉿kali)-[~]
